@@ -1,0 +1,2 @@
+TOKEN = '5158546695:AAEkfSisrUqIh08Vd8jTINZ1lE74cVU_-So'
+LINK = 'https://ef31-37-204-7-129.ngrok.io'
